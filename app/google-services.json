@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037058014503",
+    "firebase_url": "https://djopa-app.firebaseio.com",
+    "project_id": "djopa-app",
+    "storage_bucket": "djopa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037058014503:android:c48edf204d1c5c5b1bfd02",
+        "android_client_info": {
+          "package_name": "com.example.djopaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037058014503-7fih4mrj4gatfi9m0js6op493ajnfsqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.djopaapp",
+            "certificate_hash": "9354423a44a34724051698d892d7dcabf5f3b124"
+          }
+        },
+        {
+          "client_id": "1037058014503-aus7p9r9h3km0ceicu56ll0p7uc47fle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemuybZDDpOeV15LvUdvZgxA2le_DPoCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037058014503-aus7p9r9h3km0ceicu56ll0p7uc47fle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
